@@ -1,2 +1,2 @@
 # Virtusa-Training
-Baseball league management system using Java, Springboot and Angular
+Mini projects using Java, Springboot and Angular
